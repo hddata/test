@@ -5,7 +5,6 @@
     @FileName：   python_1.py
     @Author:      cnshhi
     @CreateTime:  2016/10/21 10:45
-    @Email:       cnshi@travelsky.com
     @Description: 系统基础信息模块
 """
 
