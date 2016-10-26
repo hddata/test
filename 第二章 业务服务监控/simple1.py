@@ -5,7 +5,6 @@
     @FileName：   simple1.py
     @Author:      cnshhi
     @CreateTime:  2016/10/24 15:17
-    @Email:       cnshi@travelsky.com
     @Description: 文件与目录差异对比，可以用来对比备份文件
 """
 import filecmp
