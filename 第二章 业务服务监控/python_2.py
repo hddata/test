@@ -5,7 +5,6 @@
     @FileName：   python_2.py
     @Author:      cnshhi
     @CreateTime:  2016/10/24 11:02
-    @Email:       cnshi@travelsky.com
     @Description: 两字符串的差异对比
 """
 
