@@ -5,7 +5,6 @@
     @FileName：   simple3.py
     @Author:      cnshhi
     @CreateTime:  2016/10/24 13:59
-    @Email:       cnshi@travelsky.com
     @Description: 对比nginx配置文件的差异
 """
 import difflib
