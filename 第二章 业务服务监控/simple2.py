@@ -5,7 +5,6 @@
     @FileName：   simple2.py
     @Author:      cnshhi
     @CreateTime:  2016/10/24 16:02
-    @Email:       cnshi@travelsky.com
     @Description: 校验源与备份目录差异
     一次运行只能校验一级目录，多次执行直到update item后面没有任何备份后备份完成
 """
