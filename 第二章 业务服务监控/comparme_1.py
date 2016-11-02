@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
     @Version:     python-2.7.11
-    @FileName：   simple2.py
+    @FileName：   comparme_1.py -1.0
     @Author:      cnshhi
     @CreateTime:  2016/10/24 16:02
     @Description: 校验源与备份目录差异

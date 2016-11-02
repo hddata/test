@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
     @Version:     python-2.7.11
-    @FileName：   pycurl_1.py
+    @FileName：   pycurl_1.py -v1.0
     @linux:       redhat6.3
     @CreateTime:  2016/10/25 14:24
     @Description:

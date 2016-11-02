@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
     @Version:     python-2.7.11
-    @FileName：   python_2.py
+    @FileName：   difflib_1.py -v1.0
     @Author:      cnshhi
     @CreateTime:  2016/10/24 11:02
     @Description: 两字符串的差异对比

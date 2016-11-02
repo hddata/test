@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
     @Version:     python-2.7.11
-    @FileName：   simple1.py
+    @FileName：   filecmp_1.py -v1.0
     @Author:      cnshhi
     @CreateTime:  2016/10/24 15:17
     @Description: 文件与目录差异对比，可以用来对比备份文件

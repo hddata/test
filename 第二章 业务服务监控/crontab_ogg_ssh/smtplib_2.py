@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
     @Version:     python-2.7.11
-    @FileName：   smtplib_1.py
+    @FileName：   smtplib_2.py -v1.0
     @Author:      cnshhi
     @CreateTime:  2016/10/25 10:02
     @linux:       redhat6.3

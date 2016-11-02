@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
     @Version:     python-2.7.11
-    @FileName：   simple3.py
+    @FileName：   difflib_2.py  -v1.0
     @Author:      cnshhi
     @CreateTime:  2016/10/24 13:59
     @Description: 对比nginx配置文件的差异
