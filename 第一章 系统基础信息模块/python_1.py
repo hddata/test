@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
     @Version:     python-2.7.11
-    @FileName：   python_1.py
+    @FileName：   python_1.py  -v1.0
     @Author:      cnshhi
     @CreateTime:  2016/10/21 10:45
     @Description: 系统基础信息模块
